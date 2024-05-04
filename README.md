@@ -14,7 +14,7 @@
 ![](https://img.shields.io/github/forks/edenia/tikuna?style=social)
 </div>
 
-Tikuna, a proof-of-concept P2P network security monitoring system for the Ethereum blockchain. By leveraging Machine Learning techniques, it will extract security and performance insights for early detection of relevant incidents. Tikuna will bring improved visibility to the security state of the P2P network. 
+Tikuna is an Artificial Intelligence suite for Blockchain-related data analysis. It leverages Machine Learning techniques to process security and performance insights for early detection of relevant incidents. Tikuna brings visibility to the state of the network.
 
 ## Table of Contents
 
